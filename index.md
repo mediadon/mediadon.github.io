@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+**WILLKOMMEN** auf meiner Website!
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
